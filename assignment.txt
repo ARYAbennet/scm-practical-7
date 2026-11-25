@@ -1,2 +1,3 @@
 Module 2 assignment: branching and collaboration.
 Created on assignment-branch by Arya Srivastava.
+Third line added to show staging and commit.
